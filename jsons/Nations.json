@@ -29,7 +29,7 @@
 
 		"outerColor": [214,225,225],
 		"innerColor": [67,134,150],
-		"uniqueName": "The Swan King",
+		"uniqueName": "Swan King",
 		"uniques": ["[+50]% Production when constructing [Culture] wonders [in all cities]","[+3 Culture] from every [Wonder]"],
 			
 		"favoredReligion": "Christianity",
