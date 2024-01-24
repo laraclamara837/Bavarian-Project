@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Bavaria",
+		"leaderName": "Ludwig II",
+		"adjective": ["Bavarian"],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
