@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Rifleman",
-		"unitType": "Gunpowder",
+		"unitType": "Sword",
 		"uniqueTo": "Bavaria",
 		"replaces": "Rifleman",
 		"movement": 2,
