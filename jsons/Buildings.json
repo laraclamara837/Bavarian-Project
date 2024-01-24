@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Schloss",
+		"uniqueTo": "Bavaria",
 		"replaces": "Opera House",
 		"happiness": 3,
 		"culture": 5,
