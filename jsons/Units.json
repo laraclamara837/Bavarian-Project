@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Rifleman",
+		"name": "Hartschier",
 		"unitType": "Sword",
 		"uniqueTo": "Bavaria",
 		"replaces": "Rifleman",
