@@ -9,6 +9,6 @@
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 1,
 		"requiredTech": "Acoustics",
-		"uniques": [""]
+		"uniques": ["[+1 Culture] from [Mountain] tiles [in all cities]"]
 	}
 ]
