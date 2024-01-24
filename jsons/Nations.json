@@ -19,7 +19,7 @@
 		"neutralNo": ["I refuse, Try Again later.","I Don't think So.","Maybe Later."],
 		"neutralYes": ["You are Wise handing your Art's to me.","Of course, Maybe Another Art's.","That is very good, I was Amazed By Your Wiseness."],
 
-		"hateHello": "What do you want now, Be Quick?",
+		"hateHello": "What do you want now, Be Quick.",
 		"hateLetsHearIt": ["Speak! i don't Like Being Ignored.","What?","Go on, My Art's are Waiting."],
 		"hateNo": ["I don't want your Filth.","Huh, No and is Bad a Offer.","I beg your pardon? Your Art's are Nothing compared to mine"],
 		"hateYes": ["That is fine, Maybe Art's for Me next time","That is good enough for Someone like you.","Very well... Another Art's?"],
@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, My Art's Is Better untouched by filthy hand.",
 		"tradeRequest": "I have a Trade Offer, From The Finest Art in all Bavaria is Coming for you.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [214,225,225],
+		"innerColor": [67,134,150],
 		"uniqueName": "Swan King",
 		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
 			
