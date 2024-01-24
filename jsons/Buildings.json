@@ -1,12 +1,14 @@
 [
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Schloss",
+		"replaces": "Opera House",
+		"happiness": 3,
+		"culture": 5,
+		"specialistSlots": {"Artist": 3},
+		"hurryCostModifier": 5,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 1,
+		"requiredTech": "Acoustics",
+		"uniques": [""]
 	}
 ]
