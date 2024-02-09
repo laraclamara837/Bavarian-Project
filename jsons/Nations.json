@@ -3,7 +3,7 @@
 		"name": "Bavaria",
 		"leaderName": "Ludwig",
 		"adjective": ["Bavarian"],
-		"startBias": ["Hills"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Great and visionary Prince, the Bavarian Kingdom stands barren of the culture and magnificence that once adorned it. Can you raise great monuments and wonders to the glory of these lands? Can you inspire works of great renown and beauty to strengthen the character of the Bavarian nation?",
