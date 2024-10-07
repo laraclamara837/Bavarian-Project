@@ -3,15 +3,14 @@
 		"name": "Hartschier",
 		"unitType": "Sword",
 		"uniqueTo": "Bavaria",
-		"replaces": "Rifleman",
+		"replaces": "Lancer",
 		"movement": 4,
-		"strength": 50,
-		"cost": 190,
-		"uniques": ["[+80]% Strength <vs [Mounted] units>","[+50]% Stregth <vs [Ranged] units>"],
+		"strength": 23,
+		"cost": 170,
+		"uniques": ["[4] Sight","[+75]% Strength decreasing with distance from the capital"],
 		"promotions": ["Cover II","Drill III"],
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
+		"requiredTech": "Metallurgy",
+		"obsoleteTech": "Combined Arms",
 		"attackSound": "metalhit"
 	}
 ]
