@@ -30,6 +30,7 @@
 		"outerColor": [116, 163, 243],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "The Swan King",
+		"uniqueText": "When constructing a Wonders receive [+3 Culture], even if unfinished. Every wonders provide [+3 Culture], and when discovering [Chivalry] Provide [+2 Gold, +1 Culture]. City with [Castle] Earned [Great Artist] +50% faster. [Castle] provide [+2 Culture] after adopting [Fine Arts].",
 		"uniques": ["[Great Artist] is earned [+50]% faster <in cities with a [Castle]>","[+3 Culture] [in this city] <upon constructing [Wonder] [in this city]>","[+2 Culture] from every [Castle] <after adopting [Fine Arts]>","[+2 Gold, +1 Culture] from every [Wonder] <after discovering [Chivalry]>","[+3 Culture] from every [Wonder]"],
 			
 		"favoredReligion": "Christianity",
