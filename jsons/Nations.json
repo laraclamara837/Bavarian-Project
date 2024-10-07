@@ -9,9 +9,9 @@
 		"startIntroPart1": "Great and visionary Prince, the Bavarian Kingdom stands barren of the culture and magnificence that once adorned it. Can you raise great monuments and wonders to the glory of these lands? Can you inspire works of great renown and beauty to strengthen the character of the Bavarian nation?",
 		"startIntroPart2": "Ludwig The Second, Will You Change Bavaria into The Kingdom of Culture, Can You stand The Test of Time With Your Vision on Better Bavaria?",
 		
-		"declaringWar": "Your Kingdom is Filled with Filth, Such a Waste of Grand Space!",
-		"attacked": "How dare You Threaten Me, well, I'll just have to Destroy Your Filth, which is your kingdom!",
-		"defeated": "",
+		"declaringWar": "Have at you, then! We shall write new legends of this day!",
+		"attacked": "Villain! You are as despicable as that Count Telramund! As that Fafnir!",
+		"defeated": "Perhaps we may meet on the way between the Wood and the World.",
 		"introduction": "Ahem. I am Ludwig II, King of Bavaria. I assure you, you sleep not. You have stumbled upon a dream, yes - no, a fantasy; a paradise unrivalled on all the earth - but it is a fantasy of mine into which you step. My dream in which I hope you'll stay a while.",
 		
 		"neutralHello": "Welcome, welcome, do my paintings and castle work its spells on you?",
@@ -30,7 +30,7 @@
 		"outerColor": [214,225,225],
 		"innerColor": [67,134,150],
 		"uniqueName": "Swan King",
-		"uniques": ["[+3 Culture] [in this city] <upon constructing [Wonder] [in this city]","[+3 Culture] from every [Wonder]"],
+		"uniques": ["[+3 Culture] [in this city] <upon constructing [Wonder] [in this city]","[+2 Culture] from every [Castle] <after adopting [Fine Arts]>","[+3 Culture] from every [Wonder]"],
 			
 		"favoredReligion": "Christianity",
 		"cities": ["Munich","Nuremberg","Bamberg","Regenburg","Bayreuth","Würzburg","Augsburg","Fürth","Aschaffenburg",
