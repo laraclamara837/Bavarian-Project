@@ -8,7 +8,7 @@
 		"strength": 23,
 		"cost": 170,
 		"uniques": ["[+4] Sight","[+75]% Strength for enemy [Military] units in adjacent [Hill] tiles","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Formation I","Cover II","Drill III","Home Sweet Home"],
+		"promotions": ["Formation I","Cover II","Drill III"],
 		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "metalhit"
