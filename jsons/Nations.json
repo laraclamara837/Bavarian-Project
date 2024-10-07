@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Bavaria",
-		"leaderName": "Ludwig",
+		"leaderName": "Ludwig II",
 		"adjective": ["Bavarian"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
@@ -30,7 +30,7 @@
 		"outerColor": [116, 163, 243],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "The Swan King",
-		"uniques": ["[Great Artist] is earned [+50]% faster [in capital] <if [Castle] is constructed>","[+3 Culture] [in this city] <upon constructing [Wonder] [in this city]>","[+2 Culture] from every [Castle] <after adopting [Fine Arts]>","[+2 Gold, +1 Culture] from every [Wonder] <after discovering [Chivalry]>","[+3 Culture] from every [Wonder]"],
+		"uniques": ["[Great Artist] is earned [+50]% faster <in cities with a [Castle]>","[+3 Culture] [in this city] <upon constructing [Wonder] [in this city]>","[+2 Culture] from every [Castle] <after adopting [Fine Arts]>","[+2 Gold, +1 Culture] from every [Wonder] <after discovering [Chivalry]>","[+3 Culture] from every [Wonder]"],
 			
 		"favoredReligion": "Christianity",
 		"cities": ["Münich","Nuremberg","Bamberg","Regenburg","Bayreuth","Würzburg","Augsburg","Fürth","Aschaffenburg",
