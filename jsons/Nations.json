@@ -30,7 +30,7 @@
 		"outerColor": [116, 163, 243],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "Swan King",
-		"uniques": ["[+3 Culture] [in this city] <upon constructing [Wonder] [in this city]","[+2 Culture] from every [Castle] <after adopting [Fine Arts]>","[+3 Culture] from every [Wonder]"],
+		"uniques": ["[+3 Culture] [in this city] <upon constructing [Wonder] [in this city]","[+2 Culture] from every [Castle] <after adopting [Fine Arts]>","[Great Artist] is earned [+50]% faster [in city] with [Castle] ","[+3 Culture] from every [Wonder]"],
 			
 		"favoredReligion": "Christianity",
 		"cities": ["Münich","Nuremberg","Bamberg","Regenburg","Bayreuth","Würzburg","Augsburg","Fürth","Aschaffenburg",
