@@ -29,7 +29,7 @@
 
 		"outerColor": [116, 163, 243],
 		"innerColor": [249, 249, 249],
-		"uniqueName": "Swan King",
+		"uniqueName": "The Swan King",
 		"uniques": ["[Great Artist] is earned [+50]% faster <if [Castle] is constructed> [in capital]","[+3 Culture] [in this city] <upon constructing [Wonder] [in this city]>","[+2 Culture] from every [Castle] <after adopting [Fine Arts]>","[+2 Gold, +1 Culture] from every [Wonder] <after discovering [Chivalry]>","[+3 Culture] from every [Wonder]"],
 			
 		"favoredReligion": "Christianity",
