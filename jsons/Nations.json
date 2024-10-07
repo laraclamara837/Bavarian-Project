@@ -27,8 +27,8 @@
 		"afterPeace": "I wholeheartedly accept your peace treaty. Now can I be alone?.",
 		"tradeRequest": "I have sent to you one hundred swans- I have sent to you fifty sw- Excuse me, I have not tied them down well. I have sent you a swan. Now what can you give me in return?",
 
-		"outerColor": [214,225,225],
-		"innerColor": [67,134,150],
+		"outerColor": [116, 163, 243],
+		"innerColor": [249, 249, 249],
 		"uniqueName": "Swan King",
 		"uniques": ["[+3 Culture] [in this city] <upon constructing [Wonder] [in this city]","[+2 Culture] from every [Castle] <after adopting [Fine Arts]>","[+3 Culture] from every [Wonder]"],
 			
