@@ -31,7 +31,7 @@
 		"innerColor": [249, 249, 249],
 		"uniqueName": "The Swan King",
 		"uniqueText": "When constructing a Wonders receive [+2 Culture], even if unfinished. Every wonders provide [+2 Culture], and after discovering [Chivalry] Provide [+2 Gold, +1 Culture]. Every [Culture] buildings produce [+2 Culture] and [+2 Gold, +1 Culture] after discovering [Chivalry]. City with [Castle] Earned [Great Artist] +50% faster. [Castle] provide [+2 Culture] after adopting [Fine Arts].",
-		"uniques": ["[Great Artist] is earned [+50]% faster <in cities with a [Castle]>","[+2 Culture] [in this city] <upon constructing [Wonder] [in this city]>","[+2 Culture] from every [Castle] <after adopting [Fine Arts]>","[+2 Gold, +1 Culture] from every [Wonder] <after discovering [Chivalry]>","[+2 Culture] from every [Wonder]","[+2 Gold, +3 Culture] from every [Culture] buildings [in all cities] <after discovering [Chivalry]>"],
+		"uniques": ["[Great Artist] is earned [+50]% faster <in cities with a [Castle]>","[+2 Culture] <upon constructing [Wonder]>","[+2 Culture] from every [Castle] <after adopting [Fine Arts]>","[+2 Gold, +1 Culture] from every [Wonder] <after discovering [Chivalry]>","[+2 Culture] from every [Wonder]","[+2 Gold, +3 Culture] from every [Culture] buildings [in all cities] <after discovering [Chivalry]>"],
 			
 		"favoredReligion": "Christianity",
 		"cities": ["Münich","Nuremberg","Bamberg","Regenburg","Bayreuth","Würzburg","Augsburg","Fürth","Aschaffenburg",
