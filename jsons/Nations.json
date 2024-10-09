@@ -30,7 +30,7 @@
 		"outerColor": [116, 163, 243],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "The Swan King",
-		"uniques": ["[+50]% Production when constructing [All] wonders [in all cities] <starting from the [Industrial era]>","[+2 Culture] from every [World Wonder]","[+3 Culture] from every [World Wonder] <in cities with a [Castle]> <starting from the [Industrial era]>","[+3 Culture, +1 Gold] from every [World Wonder] <after discovering [Flight]>","[+2 Culture] from every [Landmark] <in tiles adjacent to [Hill] tiles>","[+2 Culture] from every [Landmark] <in tiles adjacent to [Mountain] tiles>","[+2 Culture] from every [Culture] buildings <after discovering [Chivalry]>"],
+		"uniques": ["[+50]% Production when constructing [All] wonders [in all cities] <starting from the [Industrial era]>","[+2 Culture] from every [World Wonder]","[+3 Culture] from every [World Wonder] <in cities with a [Castle]> <starting from the [Industrial era]>","[+3 Culture, +1 Gold] from every [World Wonder] <after discovering [Flight]>","[+2 Culture] from every [Landmark] <in tiles adjacent to [Hill] tiles>","[+2 Culture] from every [Landmark] <in tiles adjacent to [Mountain] tiles>",""],
 			
 		"favoredReligion": "Christianity",
 		"cities": ["Münich","Nuremberg","Bamberg","Regenburg","Bayreuth","Würzburg","Augsburg","Fürth","Aschaffenburg",
