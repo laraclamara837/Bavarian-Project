@@ -30,7 +30,8 @@
 		"outerColor": [116, 163, 243],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "The Swan King",
-		"uniques": ["[+2 Culture] from every [World Wonder]","[+1 Culture] from every [World Wonder] <after discovering [Chivalry]>","[Great Artist] is earned [+50]% faster <in cities with a [World Wonder]>","[Great Artist] is earned [+70]% faster <in cities with a [Castle]> <starting from the [Industrial era]>"],
+		"uniqueText": "Wonders produce [+2 Culture] and produce [+1 Culture] after discovering [Chivalry]. Upon constructing a Wonder gain 45 [Culture]","[Great Artist] is earned +50% faster in cities with wonder, and +70% faster in cities with [castle] after entering [Industrial era]. Wonders produce Tourism after discovering [Flight]",
+		"uniques": ["[+2 Culture] from every [World Wonder]","Gain [45] [Culture] <upon constructing [World Wonder]>","[+1 Culture] from every [World Wonder] <after discovering [Chivalry]>","[Great Artist] is earned [+50]% faster <in cities with a [World Wonder]>","[Great Artist] is earned [+70]% faster <in cities with a [Castle]> <starting from the [Industrial era]>","[+3 Culture, +1 Gold] from every [World Wonder] <after discovering [Flight]>"],
 			
 		"favoredReligion": "Christianity",
 		"cities": ["Münich","Nuremberg","Bamberg","Regenburg","Bayreuth","Würzburg","Augsburg","Fürth","Aschaffenburg",
