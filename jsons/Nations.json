@@ -30,7 +30,7 @@
 		"outerColor": [116, 163, 243],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "The Swan King",
-		"uniques": ["[+2 Culture] from every [World Wonder]",],
+		"uniques": ["[+2 Culture] from every [World Wonder]","[+1 Culture] from every [World Wonder] <after discovering [Chivalry]>","[Great Artist] is earned [+50]% faster <in cities with a [World Wonder]>","[Great Artist] is earned [+70]% faster <in cities with a [Castle]> <starting from the [Industrial era]>"],
 			
 		"favoredReligion": "Christianity",
 		"cities": ["Münich","Nuremberg","Bamberg","Regenburg","Bayreuth","Würzburg","Augsburg","Fürth","Aschaffenburg",
