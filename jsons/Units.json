@@ -7,8 +7,8 @@
 		"movement": 4,
 		"strength": 23,
 		"cost": 170,
-		"uniques": ["[+4] Sight","Earn [60]% of killed [Military] unit's [Strength] as [Gold]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Formation I","Cover II","Drill III"],
+		"uniques": ["[+2] Sight","[+50]% Strength <when fighting in [Schloss] tiles>","Double movement in [Fresh Water]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Formation I","Cover II","Drill II"],
 		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "metalhit"
