@@ -31,6 +31,7 @@
 		"outerColor": [116, 163, 243],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "The Swan King",
+		"uniquetext": "",
 		"uniques": ["[+2 Culture] from every [World Wonder]","[+2 Culture] from every [Castle] <starting from the [Industrial era]>","[+2 Culture] from all [Culture] buildings <in cities with a [Castle]>","[+1 Gold, +3 Culture] from every [World Wonder] <after discovering [Flight]>","[+1 Gold, +3 Culture] from all [Culture] buildings <in cities with a [Castle]> <after discovering [Flight]>"],
 			
 		"favoredReligion": "Christianity",
